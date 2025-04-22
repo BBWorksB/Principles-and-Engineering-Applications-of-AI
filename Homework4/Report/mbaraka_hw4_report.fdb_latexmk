@@ -1,10 +1,13 @@
 # Fdb version 4
-["pdflatex"] 1744337642.18594 "d:/Year1/Spring/Principles/Principles and Engineering Applications of AI/Homework4/Report/mbaraka_hw4_report.tex" "mbaraka_hw4_report.pdf" "mbaraka_hw4_report" 1744337643.96032 0
+["pdflatex"] 1745236089.76929 "d:/Year1/Spring/Principles/Principles and Engineering Applications of AI/Homework4/Report/mbaraka_hw4_report.tex" "mbaraka_hw4_report.pdf" "mbaraka_hw4_report" 1745236091.26524 0
   "../Problem1/num_of_observation.png" 1744329573 86637 8c88ad39a7e95f8eb8f92087b3990a52 ""
   "../Problem1/predictive_of_next_head.png" 1744329582 47707 a542a5893ab75336363222f8edc6a441 ""
   "../Problem2/Figure_1.png" 1744334411 61452 41ba2b38f487e16ce993c96c5589fca1 ""
+  "../Problem3/Comparizon_ML_MAP_Bayesian.png" 1744541322 74370 b591f5ca529d74c31e2d0006c9474373 ""
   "C:/Users/STUDENT/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1743205825 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/STUDENT/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1742471502 11548 1543d5bf0a0cfb5078c383ad2ef6184f ""
   "C:/Users/STUDENT/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1742467951 12037057 51a85339f43877ce4a6ea87e23a8542c ""
+  "C:/Users/STUDENT/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "C:/Users/STUDENT/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/STUDENT/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "C:/Users/STUDENT/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -150,9 +153,9 @@
   "C:/Users/STUDENT/AppData/Local/Programs/MiKTeX/tex/latex/pgfopts/pgfopts.sty" 1404983438 5540 d5c60cf09c59da351aa4023ed084e4eb ""
   "C:/Users/STUDENT/AppData/Local/Programs/MiKTeX/tex/latex/trimspaces/trimspaces.sty" 1253169183 1380 971a51b00a14503ddf754cab24c3f209 ""
   "C:/Users/STUDENT/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "d:/Year1/Spring/Principles/Principles and Engineering Applications of AI/Homework4/Report/mbaraka_hw4_report.tex" 1744337641 3010 25afb85c243a23b5ff184b180572f6bc ""
-  "mbaraka_hw4_report.aux" 1744337643 173 374f9aa156dae46029fcc543c9855969 "pdflatex"
-  "mbaraka_hw4_report.tex" 1744337641 3010 25afb85c243a23b5ff184b180572f6bc ""
+  "d:/Year1/Spring/Principles/Principles and Engineering Applications of AI/Homework4/Report/mbaraka_hw4_report.tex" 1745236089 3852 872da2481baed3351ed0360ff037c19f ""
+  "mbaraka_hw4_report.aux" 1745236091 220 c9f9e5756c537c35ed5c0c9c7fbd9102 "pdflatex"
+  "mbaraka_hw4_report.tex" 1745236089 3852 872da2481baed3351ed0360ff037c19f ""
   (generated)
   "mbaraka_hw4_report.aux"
   "mbaraka_hw4_report.log"
