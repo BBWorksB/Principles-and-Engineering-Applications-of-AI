@@ -58,3 +58,8 @@ plt.title('Comparison of Predictive Probabilities: Bayesian vs MAP')
 plt.legend()
 plt.grid(True)
 plt.show()
+
+# Print final predictions
+print("\nProblem 2 Results:")
+print(f"MAP final prediction (Uniform Prior): {map_uniform_pred[-1]:.4f}")
+print(f"MAP final prediction (Non-Uniform Prior): {map_non_uniform_pred[-1]:.4f}")

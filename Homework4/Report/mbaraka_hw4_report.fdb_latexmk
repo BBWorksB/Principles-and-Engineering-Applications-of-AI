@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1745236089.76929 "d:/Year1/Spring/Principles/Principles and Engineering Applications of AI/Homework4/Report/mbaraka_hw4_report.tex" "mbaraka_hw4_report.pdf" "mbaraka_hw4_report" 1745236091.26524 0
+["pdflatex"] 1745340685.79115 "d:/Year1/Spring/Principles/Principles and Engineering Applications of AI/Homework4/Report/mbaraka_hw4_report.tex" "mbaraka_hw4_report.pdf" "mbaraka_hw4_report" 1745340687.34789 0
   "../Problem1/num_of_observation.png" 1744329573 86637 8c88ad39a7e95f8eb8f92087b3990a52 ""
   "../Problem1/predictive_of_next_head.png" 1744329582 47707 a542a5893ab75336363222f8edc6a441 ""
   "../Problem2/Figure_1.png" 1744334411 61452 41ba2b38f487e16ce993c96c5589fca1 ""
@@ -153,9 +153,9 @@
   "C:/Users/STUDENT/AppData/Local/Programs/MiKTeX/tex/latex/pgfopts/pgfopts.sty" 1404983438 5540 d5c60cf09c59da351aa4023ed084e4eb ""
   "C:/Users/STUDENT/AppData/Local/Programs/MiKTeX/tex/latex/trimspaces/trimspaces.sty" 1253169183 1380 971a51b00a14503ddf754cab24c3f209 ""
   "C:/Users/STUDENT/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "d:/Year1/Spring/Principles/Principles and Engineering Applications of AI/Homework4/Report/mbaraka_hw4_report.tex" 1745236089 3852 872da2481baed3351ed0360ff037c19f ""
-  "mbaraka_hw4_report.aux" 1745236091 220 c9f9e5756c537c35ed5c0c9c7fbd9102 "pdflatex"
-  "mbaraka_hw4_report.tex" 1745236089 3852 872da2481baed3351ed0360ff037c19f ""
+  "d:/Year1/Spring/Principles/Principles and Engineering Applications of AI/Homework4/Report/mbaraka_hw4_report.tex" 1745340685 5485 166212520359934b4cb407fa8f869aff ""
+  "mbaraka_hw4_report.aux" 1745340687 220 90f6c83e04d77c75abc4bd7634908373 "pdflatex"
+  "mbaraka_hw4_report.tex" 1745340685 5485 166212520359934b4cb407fa8f869aff ""
   (generated)
   "mbaraka_hw4_report.aux"
   "mbaraka_hw4_report.log"

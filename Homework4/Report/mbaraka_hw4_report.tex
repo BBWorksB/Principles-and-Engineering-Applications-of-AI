@@ -54,6 +54,10 @@ probability tends to be stable aroung 0.4 since the posterior of h3 becaomes qui
     \label{fig:num_of_observation}
 \end{figure}
 
+\subsubsection*{Results:}
+\textbf{MAP final prediction (Uniform Prior):} 0.4000 \\
+\textbf{MAP final prediction (Non-Uniform Prior):} 0.4000
+
 \subsubsection*{Observation and Insights}
 \textbf{MAP vs Bayesian}
 
@@ -80,6 +84,22 @@ by combining uncertinity but requires more computation.
     \item Which is likely to be more accurate: the estimate found with ML estimation or the estimate found using the other methods?
     \item In what case (specifically, for what prior distribution) does MAP estimation reduce to the ML estimate? Feel free to consult Section 20.2 Learning with Complete Data in Russel \& Norvig.
     \item Provide a brief discussion comparing Bayesian Learning, MAP, and ML estimation. What are the pros and cons of each?
+\end{itemize}
+
+\subsubsection*{Results}
+\textbf{Final ML estimate:} 0.3000 \\
+
+\subsubsection*{Discussion}
+\begin{itemize}
+    \item \textbf{Comparison with Bayesian Learning and MAP:} The ML estimate of 0.3000 differs from the Bayesian and MAP estimates of 0.4000. The major difference lies in the fact that ML estimation does not incorporate prior information, whereas Bayesian and MAP methods do.
+    \item \textbf{Accuracy:} The accuracy of ML estimation depends on the amount of data available. With sufficient data, ML can be as accurate as Bayesian or MAP. However, with limited data, Bayesian and MAP are generally more accurate due to their use of prior information.
+    \item \textbf{When MAP reduces to ML:} MAP estimation reduces to ML estimation when the prior distribution is uniform, as the prior does not influence the posterior in this case.
+    \item \textbf{Comparison of Methods:}
+    \begin{itemize}
+        \item \textbf{Bayesian Learning:} Provides robust predictions by combining prior knowledge and observed data. It is computationally intensive but handles uncertainty well.
+        \item \textbf{MAP Estimation:} Balances prior knowledge and observed data. It is computationally efficient but can be sensitive to the choice of prior.
+        \item \textbf{ML Estimation:} Relies solely on observed data, making it simple and computationally efficient. However, it may be less accurate with limited data or noisy observations.
+    \end{itemize}
 \end{itemize}
 
 

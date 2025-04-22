@@ -56,3 +56,7 @@ plt.title('Predictive Probability: Bayesian vs MAP vs ML')
 plt.legend()
 plt.grid(True)
 plt.show()
+
+
+print("\nProblem 3 Results:")
+print(f"Final ML estimate: {ml_estimates[-1]:.4f}")

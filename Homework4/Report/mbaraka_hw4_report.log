@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.20)  21 APR 2025 13:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.20)  22 APR 2025 18:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -522,7 +522,7 @@ File: ../Problem2/Figure_1.png Graphic file (type png)
 Package pdftex.def Info: ../Problem2/Figure_1.png  used on input line 52.
 (pdftex.def)             Requested size: 276.00105pt x 138.00034pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--64
+Underfull \hbox (badness 10000) in paragraph at lines 66--68
 
  []
 
@@ -534,13 +534,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--64
 <../Problem3/Comparizon_ML_MAP_Bayesian.png, id=30, 867.24pt x 433.62pt>
 File: ../Problem3/Comparizon_ML_MAP_Bayesian.png Graphic file (type png)
 <use ../Problem3/Comparizon_ML_MAP_Bayesian.png>
-Package pdftex.def Info: ../Problem3/Comparizon_ML_MAP_Bayesian.png  used on input line 74.
+Package pdftex.def Info: ../Problem3/Comparizon_ML_MAP_Bayesian.png  used on input line 78.
 (pdftex.def)             Requested size: 276.00105pt x 138.00034pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
 
 
 [4
 
- <../Problem3/Comparizon_ML_MAP_Bayesian.png>] (mbaraka_hw4_report.aux)
+ <../Problem3/Comparizon_ML_MAP_Bayesian.png>]
+Overfull \hbox (0.77902pt too wide) in paragraph at lines 99--100
+[]\OT1/cmr/bx/n/10 Bayesian Learn-ing: \OT1/cmr/m/n/10 Pro-vides ro-bust pre-dic-tions by com-bin-ing prior
+ []
+
+
+
+[5] (mbaraka_hw4_report.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -553,15 +565,15 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  23577 strings out of 473523
  568657 string characters out of 5713662
- 949972 words of memory out of 5000000
+ 951972 words of memory out of 5000000
  46495 multiletter control sequences out of 15000+600000
  567074 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 98i,7n,105p,1686b,237s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 98i,7n,105p,1686b,247s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\STUDENT\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/STUDENT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/STUDENT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/STUDENT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/STUDENT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/STUDENT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/STUDENT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/STUDENT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/STUDENT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/STUDENT/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on mbaraka_hw4_report.pdf (4 pages, 331149 bytes).
+Output written on mbaraka_hw4_report.pdf (5 pages, 336349 bytes).
 PDF statistics:
- 77 PDF objects out of 1000 (max. 8388607)
+ 80 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
